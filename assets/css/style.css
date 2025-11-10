@@ -1,0 +1,18 @@
+body {
+  background: linear-gradient(135deg, #0a0a0a, #1c1c1c);
+  font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+  backdrop-filter: blur(10px);
+  background-color: rgba(20, 20, 20, 0.7) !important;
+  box-shadow: 0 2px 15px rgba(255, 215, 0, 0.15);
+}
+
+.card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
+}

@@ -1,0 +1,12 @@
+{
+  "name": "fifa-adventure",
+  "version": "1.0.0",
+  "description": "Aplikasi Penyewaan Alat Camping - PHP Bootstrap",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Safella Amara",
+  "license": "MIT",
+  "dependencies": {}
+}
